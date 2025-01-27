@@ -7,4 +7,5 @@ before you open follow all these steps:
 4: pip install bcrypt
 5: open the .py file
 6: create acound OR login
-7: do what you wan't to do follow for more updates
+7: go to 
+: do what you wan't to do follow for more updates
