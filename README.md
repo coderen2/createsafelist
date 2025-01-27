@@ -1,2 +1,10 @@
-# createsafelist
-this is somthing where you can put in your favorite links evrything is in the english now you only can use it on pc i think only windows i'l try to do apple and android to. i shoud read the read me file before you open the .py file it's complytly safe i'l try to make it more secure. but for now it shoud be secure.
+Welcom to createsafelist
+
+before you open follow all these steps:
+1: win + r
+2: cmd
+3: pip install python
+4: pip install bcrypt
+5: open the .py file
+6: create acound OR login
+7: do what you wan't to do follow for more updates
